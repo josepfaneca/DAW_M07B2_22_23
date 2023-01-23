@@ -1,0 +1,7 @@
+cat/xtec/ioc/domain/Espectacle.class
+cat/xtec/ioc/domain/repository/impl/InMemoryRepository.class
+cat/xtec/ioc/domain/repository/CartelleraRepository.class
+cat/xtec/ioc/controller/HomeController.class
+cat/xtec/ioc/service/EspectacleServiceEndpoint.class
+cat/xtec/ioc/controller/EspectacleController.class
+cat/xtec/ioc/service/impl/EspectacleServiceEndpointImpl.class
