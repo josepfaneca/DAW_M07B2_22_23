@@ -6,7 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="uf4 (1)" />
+        <module name="uf4 (2)" />
         <module name="uf4" />
+        <module name="uf4 (3)" />
+        <module name="uf4 (4)" />
+        <module name="uf4 (5)" />
+        <module name="uf4 (6)" />
+        <module name="uf4 (7)" />
+        <module name="uf4 (8)" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Archetypes.Configuration">
+    <option name="archetypesFileLocation" value="archetypes.xml" />
     <option name="workingDirectory" value="" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
@@ -8,6 +9,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../EAC4/Material/daw-m07-u4-a1-02/pom.xml" />
+        <option value="$PROJECT_DIR$/../../EAC4/Material/daw-m07-u4-a1-04/pom.xml" />
+        <option value="$PROJECT_DIR$/../../EAC4/Material/daw-m07-u4-a1-05/pom.xml" />
+        <option value="$PROJECT_DIR$/../../EAC4/Material/daw-m07-u4-a1-06/pom.xml" />
+        <option value="$PROJECT_DIR$/../daw-m07-u4-a2-03/pom.xml" />
+        <option value="$PROJECT_DIR$/../daw-m07-u4-a2-02/pom.xml" />
+        <option value="$PROJECT_DIR$/../daw-m07-u4-a2-04/pom.xml" />
+        <option value="$PROJECT_DIR$/../uf4-a3-04/uf4-a3-04/pom.xml" />
       </list>
     </option>
   </component>
