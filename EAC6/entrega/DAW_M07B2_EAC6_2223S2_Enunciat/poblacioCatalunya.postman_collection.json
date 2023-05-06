@@ -1,0 +1,131 @@
+{
+	"info": {
+		"_postman_id": "42c2e0fc-a4d4-4adc-87a9-b442981d9fc4",
+		"name": "poblacioCatalunya",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20926569",
+		"_collection_link": "https://winter-satellite-371283.postman.co/workspace/DAW_M07B2_EAC6_2223S2~37e7b5a5-a56c-4d64-9479-c7fea7a0ad73/collection/20926569-42c2e0fc-a4d4-4adc-87a9-b442981d9fc4?action=share&creator=20926569&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "GET YEAR",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/poblaciocatalunya/years/2000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"poblaciocatalunya",
+						"years",
+						"2000"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET YEARS",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/poblaciocatalunya/years",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"poblaciocatalunya",
+						"years"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST YEAR",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[{\"year\":\"2005\",\r\n\"total\":\"6846692\",\"homes\":\"3378911\",\"dones\":\"3467781\"}]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/poblaciocatalunya/years\n",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"poblaciocatalunya",
+						"years\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT YEAR",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[{\r\n        \"year\": \"2005\",\r\n        \"total\": \"6846692\",\r\n        \"homes\": \"3378911\",\r\n        \"dones\": \"3467781\"\r\n    }\r\n]\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/poblaciocatalunya/years\n",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"poblaciocatalunya",
+						"years\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE YEAR",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/poblaciocatalunya/years/2005\n",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"poblaciocatalunya",
+						"years",
+						"2005\n"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

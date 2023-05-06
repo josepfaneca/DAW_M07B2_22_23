@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="dawm07eac4Totxollo:war exploded">
+    <output-path>$PROJECT_DIR$/../../../EAC4/solucio/DAW_M07_B2_EAC4_solucio/dawm07eac4TotxolloSolucio/target/dawm07eac4Totxollo</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>dawm07eac4Totxollo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="dawm07eac4Totxollo" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../../EAC4/solucio/DAW_M07_B2_EAC4_solucio/dawm07eac4TotxolloSolucio/target/dawm07eac4Totxollo/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="dawm07eac4Totxollo/web/Web" />
+    </root>
+  </artifact>
+</component>

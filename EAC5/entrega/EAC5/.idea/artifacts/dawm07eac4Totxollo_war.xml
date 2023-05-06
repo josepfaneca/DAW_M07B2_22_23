@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dawm07eac4Totxollo:war">
+    <output-path>$PROJECT_DIR$/../../../EAC4/solucio/DAW_M07_B2_EAC4_solucio/dawm07eac4TotxolloSolucio/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dawm07eac4Totxollo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dawm07eac4Totxollo.war">
+      <element id="artifact" artifact-name="dawm07eac4Totxollo:war exploded" />
+    </root>
+  </artifact>
+</component>
