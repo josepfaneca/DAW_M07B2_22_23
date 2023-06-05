@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="poblaciocatalunya" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="poblaciocatalunya" options="-endorseddirs &quot;G:\La meva unitat\ORDENADOR_AYESA\IOC\DAW_07B2_2023\DAW_M07B2_22_23\EAC6\solucio\DAW_M07B2_EAC6_2223S2_Solucio\poblaciocatalunya\target/endorsed&quot;" />
+    </option>
+  </component>
+</project>

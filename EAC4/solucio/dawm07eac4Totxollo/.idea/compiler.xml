@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dawm07eac4Totxollo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dawm07eac4Totxollo" options="-endorseddirs &quot;G:\La meva unitat\ORDENADOR_AYESA\IOC\DAW_07B2_2023\DAW_M07B2_22_23\EAC4\solucio\dawm07eac4Totxollo\target/endorsed&quot;" />
+    </option>
+  </component>
+</project>

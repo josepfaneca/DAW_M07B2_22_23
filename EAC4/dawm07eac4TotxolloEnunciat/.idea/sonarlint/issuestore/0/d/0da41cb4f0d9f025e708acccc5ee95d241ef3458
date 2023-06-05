@@ -1,0 +1,68 @@
+
+g	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(Œ–İÏøÿÿÿÿ8Ç–Òïø0
+L
+java:S3740*"/Provide the parametrized type for this generic.(–Ş8È–Òïø0
+Q
+java:S37400"/Provide the parametrized type for this generic.(Ü®ó¹ÿÿÿÿÿ8È–Òïø0
+L
+java:S37406"/Provide the parametrized type for this generic.(ğ°˜İ8È–Òïø0
+L
+java:S3740H"/Provide the parametrized type for this generic.(–Ş8È–Òïø0
+v
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ş¼8É–Òïø0
+v
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ş¼8É–Òïø0
+b
+java:S1192+"FDefine a constant instead of duplicating this literal "title" 4 times.(Ü”"8Í–Òïø0
+i
+java:S1192<"GDefine a constant instead of duplicating this literal "banner" 7 times.(¬ÍÊëÿÿÿÿÿ8Í–Òïø0
+e
+java:S1192F"HDefine a constant instead of duplicating this literal "tagline" 5 times.(‘®ã¦8Î–Òïø0
+r
+java:S1192<"PDefine a constant instead of duplicating this literal "Busca un xollo!" 7 times.(¬ÍÊëÿÿÿÿÿ8Î–Òïø0
+“
+java:S1130'"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±8€—Òïø0
+ˆ
+java:S1130'"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±8—Òïø0
+j
+java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–û‚ùÿÿÿÿ8‚—Òïø0
+“
+java:S1130C"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±8“—Òïø0
+ˆ
+java:S1130C"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±8”—Òïø0
+j
+java:S4488A"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Û•ôûÿÿÿÿ8”—Òïø0
+”
+java:S1130T"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(•–ƒÕ8™—Òïø0
+‰
+java:S1130T"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(•–ƒÕ8™—Òïø0
+d
+java:S4488R"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ıó¡)8š—Òïø0
+U
+java:S1874Y"3Remove this use of "newInstance"; it is deprecated.(ïŸ°ÿÿÿÿÿ8—Òïø0
+f
+java:S4488c"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(çÛÒ8¢—Òïø0
+“
+java:S1130p"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±8»—Òïø0
+ˆ
+java:S1130p"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±8»—Òïø0
+e
+java:S4488n"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ìêœÂ8¼—Òïø0
+“
+java:S1130x"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±8¾—Òïø0
+ˆ
+java:S1130x"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±8¾—Òïø0
+l
+java:S4488v"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÏàÛ€ùÿÿÿÿ8¿—Òïø0
+”
+java:S1130‚"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±8Â—Òïø0
+‰
+java:S1130‚"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±8Ã—Òïø0
+”
+java:S1130‹"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±8Å—Òïø0
+‰
+java:S1130‹"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±8Å—Òïø0
+f
+java:S4488‰"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(˜òê»8Å—Òïø0
+p
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.MatrixVariable'.(Í³ ²8È—Òïø0
